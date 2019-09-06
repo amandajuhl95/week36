@@ -6,34 +6,32 @@
 
 #### Exercise: Getting started with Travis CI 
 
-* [click here](https://github.com/amandajuhl95/travisGettingStarted)
+* [Click here](https://github.com/amandajuhl95/travisGettingStarted)
 
 On the exercise below, you should look at the MoveEntity class, MovieFacade and MovieFacadeTest, which was a part of the assignment this day.
 
 #### Exercise: REST,JPA, Test and CI with our start code 
 
-* [click here](https://github.com/amandajuhl95/week3monday)
+* [Click here](https://github.com/amandajuhl95/week3monday)
 
 Note: Both links refers to other Git repositories. 
 
 ### Tuesday
 
 #### Exercise: Testing REST Endpoints
-* [click here](https://github.com/amandajuhl95/week3monday/blob/master/src/test/java/rest/MovieResourceTest.java)
+* [Click here](https://github.com/amandajuhl95/week3monday/blob/master/src/test/java/rest/MovieResourceTest.java)
 
 ### Wednesday
 
 #### Exercise: The JavaScript Array 
 
-* [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise1.js)
+* [Click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise1.js)
 
 #### Exercise: JavaScript Day-1 
 
-* [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise2.js)
+* [Click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise2.js)
 
 ### Thursday 
-
-Click on the HTML and JavaScript to see the code for each exercise
 
 #### Exercise: Dom Manipulation and Events 
 
@@ -79,6 +77,6 @@ Dynamic UI manipulation using data obtained via fetch:
 
 #### Link to droplet
 
-* [click here](https://ajuhlhansen.dk/week3monday/)
+* [Click here](https://ajuhlhansen.dk/week3monday/)
 
 
