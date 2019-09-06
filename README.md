@@ -24,7 +24,7 @@ Exercise: JavaScript Day-1 - [click here](https://github.com/amandajuhl95/week36
 
 ### Thursday 
 
-##### Click on the HTML and JavaScript to see the code for each exercise
+Click on the HTML and JavaScript to see the code for each exercise
 
 #### Exercise: Dom Manipulation and Events 
 
