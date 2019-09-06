@@ -2,6 +2,10 @@
 
 #### Please follow the links in the README file to fint the solutions for the exercises.
 
+### Picture of Travis Build Log 
+
+* [Click here](https://github.com/amandajuhl95/week36/blob/master/travis%20build%20log.jpg)
+
 ### Monday
 
 Note: Both links refers to other Git repositories. 
