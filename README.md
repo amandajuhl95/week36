@@ -12,17 +12,12 @@ Note: Both links refers to other Git repositories.
 
 ### Tuesday
 
-Exercise: Testing REST Endpoints - [click here]()
-
-[Word document](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
-
-Remember to download word document to see the solution!
+Exercise: Testing REST Endpoints - [click here](https://github.com/amandajuhl95/week3monday/blob/master/src/test/java/rest/MovieResourceTest.java)
 
 ### Wednesday
 
-[Word document](https://github.com/amandajuhl95/week35/blob/master/wednesday/TheHttpProtocol-solution.docx) - solution completed! 
-
-Remember to download word document to see the solution!
+Exercise: The JavaScript Array - [click here]()
+Exercise: JavaScript Day-1 - [click here]()
 
 ### Wednesday - related projects
 
