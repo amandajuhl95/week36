@@ -6,7 +6,7 @@
 
 Exercise: Getting started with Travis CI - [click here](https://github.com/amandajuhl95/travisGettingStarted)
 
-Look at the MoveEntity class, MovieFacade and MovieFacadeTest
+On the exercise below, you should look at the MoveEntity class, MovieFacade and MovieFacadeTest, which was a part of the assignment this day.
 
 Exercise: REST,JPA, Test and CI with our start code - [click here](https://github.com/amandajuhl95/week3monday)
 
@@ -50,8 +50,6 @@ Implement a simple calculator:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculator.html)
 * [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculatorjs.js)
-
-### Thursday 
 
 #### Exercise: Getting Started with the fetch-API:
 
