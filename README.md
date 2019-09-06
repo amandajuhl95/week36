@@ -4,6 +4,8 @@
 
 ### Monday
 
+Note: Both links refers to other Git repositories. 
+
 #### Exercise: Getting started with Travis CI 
 
 * [Click here](https://github.com/amandajuhl95/travisGettingStarted)
@@ -13,8 +15,6 @@ On the exercise below, you should look at the MovieEntity class, MovieFacade, Mo
 #### Exercise: REST,JPA, Test and CI with our start code 
 
 * [Click here](https://github.com/amandajuhl95/week3monday)
-
-Note: Both links refers to other Git repositories. 
 
 ### Tuesday
 
