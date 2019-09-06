@@ -1,5 +1,7 @@
 ## Week 36 - exercises 
 
+### Please follow the links in the readMe file to fint the solutions for the exercises.
+
 ### Monday
 
 Exercise: Getting started with Travis CI - [click here](https://github.com/amandajuhl95/travisGettingStarted)
@@ -16,7 +18,8 @@ Exercise: Testing REST Endpoints - [click here](https://github.com/amandajuhl95/
 
 ### Wednesday
 
-Exercise: The JavaScript Array - [click here]()
+Exercise: The JavaScript Array - [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise1.js)
+
 Exercise: JavaScript Day-1 - [click here]()
 
 ### Wednesday - related projects
