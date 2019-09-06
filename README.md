@@ -22,7 +22,9 @@ Exercise: The JavaScript Array - [click here](https://github.com/amandajuhl95/we
 
 Exercise: JavaScript Day-1 - [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise2.js)
 
-### Thursday - Exercise: Dom Manipulation and Events 
+### Thursday 
+
+#### Exercise: Dom Manipulation and Events 
 
 Simple DOM manipulation and Event handling:
 
@@ -49,7 +51,9 @@ Implement a simple calculator:
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculator.html)
 * [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculatorjs.js)
 
-### Thursday - Exercise: Getting Started with the fetch-API:
+### Thursday 
+
+#### Exercise: Getting Started with the fetch-API:
 
 Dynamic UI manipulation using data obtained via fetch:
 
