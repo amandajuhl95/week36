@@ -27,42 +27,37 @@ Exercise: JavaScript Day-1 - [click here](https://github.com/amandajuhl95/week36
 Simple DOM manipulation and Event handling:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/simpledom.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/simpledomjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/simpledomjs.js)
 
 Event Bubbling and event arguments:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/eventbubbling.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/eventbubblingjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/eventbubblingjs.js)
 
 Using map to create lists:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/map.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/mapjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/mapjs.js)
 
 Using map and filter to create dynamic table-rows:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/filter.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/filterjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/filterjs.js)
 
 Implement a simple calculator:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculator.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculatorjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/calculatorjs.js)
 
 ### Thursday - Exercise: Getting Started with the fetch-API:
 
 Dynamic UI manipulation using data obtained via fetch:
 
 * [HTML](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/fetch.html)
-* [JavaSvrip](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/fetchjs.js)
+* [JavaScript](https://github.com/amandajuhl95/week36/blob/master/week3thursday/src/main/webapp/fetchjs.js)
 
 
+### Friday
 
-### Thursday - tutorial completed!
 
-[Link to domain](https://ajuhlhansen.dk) - to verify access on website ONLY via SSL (https), look at the network tab
-
-[Picture of A-rating](https://github.com/amandajuhl95/week35/tree/master/thursday)
-
-[Link to SSL rating](https://www.ssllabs.com/ssltest/analyze.html?d=ajuhlhansen.dk) 
 
