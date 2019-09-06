@@ -22,7 +22,7 @@ Exercise: The JavaScript Array - [click here](https://github.com/amandajuhl95/we
 
 Exercise: JavaScript Day-1 - [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise2.js)
 
-### Thursday 
+### Thursday - click on the HTML and JavaScript to see the code for each exercise
 
 #### Exercise: Dom Manipulation and Events 
 
