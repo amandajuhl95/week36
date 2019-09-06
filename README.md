@@ -63,5 +63,6 @@ Dynamic UI manipulation using data obtained via fetch:
 
 ### Friday
 
+Exercise: JavaScript-driven frontend to your REST-API - [click here](https://ajuhlhansen.dk/week3monday/)
 
-
+The link above is for the solution on my droplet.
