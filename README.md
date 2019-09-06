@@ -1,6 +1,6 @@
 ## Week 36 - exercises 
 
-#### Please follow the links in the readMe file to fint the solutions for the exercises.
+#### Please follow the links in the README file to fint the solutions for the exercises.
 
 ### Monday
 
@@ -8,7 +8,7 @@
 
 * [Click here](https://github.com/amandajuhl95/travisGettingStarted)
 
-On the exercise below, you should look at the MoveEntity class, MovieFacade and MovieFacadeTest, which was a part of the assignment this day.
+On the exercise below, you should look at the MovieEntity class, MovieFacade, MovieFacadeTest, MovieDTO, MovieRessource (RestEndPoints) which was a part of the assignment that day.
 
 #### Exercise: REST,JPA, Test and CI with our start code 
 
