@@ -2,15 +2,17 @@
 
 ### Monday
 
-Exercise: Getting started with Travis CI - solution completed!
+Exercise: Getting started with Travis CI - [click here](https://github.com/amandajuhl95/travisGettingStarted)
 
-[click here](https://github.com/amandajuhl95/travisGettingStarted)
+Look at the MoveEntity class, MovieFacade and MovieFacadeTest
 
-Exercise: REST,JPA, Test and CI with our start code - solution completed!
+Exercise: REST,JPA, Test and CI with our start code - [click here](https://github.com/amandajuhl95/week3monday)
 
-[click here](
+Note: Both links refers to other Git repositories. 
 
 ### Tuesday
+
+Exercise: Testing REST Endpoints - [click here]()
 
 [Word document](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
 
