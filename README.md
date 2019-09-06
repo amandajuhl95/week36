@@ -2,7 +2,12 @@
 
 ### Monday
 
-Exercise: Getting started with Travis CI
+Exercise: Getting started with Travis CI - solution completed!
+
+[click here](https://github.com/amandajuhl95/travisGettingStarted)
+
+Exercise: REST,JPA, Test and CI with our start code - solution completed!
+
 [click here](
 
 ### Tuesday
