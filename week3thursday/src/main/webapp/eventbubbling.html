@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Event Bubbling</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Event Bubbling</h1>
+
+        <!-- a -->
+        <div id="outer">
+            <p id="p"></p>
+            <div id="x" class="mydiv">x</div>
+            <div id ="y" class="mydiv">y</div>
+
+            <!-- b -->
+            <div id="a" class="mydiv">x</div>
+            <div id ="b" class="mydiv">y</div>
+            <div id="c" class="mydiv">x</div>
+            <div id ="d" class="mydiv">y</div>
+            <div id="e" class="mydiv">x</div>
+            <div id ="f" class="mydiv">y</div>
+            <div id="g" class="mydiv">x</div>
+            <div id ="h" class="mydiv">y</div>
+            <div id="i" class="mydiv">x</div>
+            <div id ="j" class="mydiv">y</div>
+        </div>
+        
+        <!-- c -->
+        <p id="txt"></p>
+
+        <script src="eventbubblingjs.js"></script>
+    </body>
+</html>
