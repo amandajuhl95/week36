@@ -1,6 +1,6 @@
 ## Week 36 - exercises 
 
-### Please follow the links in the readMe file to fint the solutions for the exercises.
+#### Please follow the links in the readMe file to fint the solutions for the exercises.
 
 ### Monday
 
@@ -20,13 +20,13 @@ Exercise: Testing REST Endpoints - [click here](https://github.com/amandajuhl95/
 
 Exercise: The JavaScript Array - [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise1.js)
 
-Exercise: JavaScript Day-1 - [click here]()
+Exercise: JavaScript Day-1 - [click here](https://github.com/amandajuhl95/week36/blob/master/week3wednesday/src/exercise2.js)
 
-### Wednesday - related projects
+### Thursday -
 
-[Exercise 1-6](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise1to6) - solution completed!
+Exercise: Dom Manipulation and Events [click here]()
 
-[Exercise 7-8](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise7and8) - solution completed!
+Exercise: Getting Started with the fetch-API [click here]()
 
 ### Thursday - tutorial completed!
 
